@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Set;
 
-public class Soltuion {
+public class Solution {
 
     public int numSquares(int n) {
         Queue<Integer> queue = new LinkedList<Integer>();//BFS算法专用队列

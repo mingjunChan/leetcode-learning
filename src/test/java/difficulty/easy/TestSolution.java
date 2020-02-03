@@ -16,9 +16,24 @@ public class TestSolution {
     }
 
     @Test
+    public void _1021_test(){
+        difficulty.easy._1021_remove_outermost_parentheses.Solution solution = new difficulty.easy._1021_remove_outermost_parentheses.Solution();
+        System.out.println(solution.removeOuterParentheses("(()())(())(()(()))"));
+
+    }
+
+    @Test
     public void _1108_test() {
         difficulty.easy._1108_defanging_an_ip_address.Solution solution = new difficulty.easy._1108_defanging_an_ip_address.Solution();
         System.out.println(solution.defangIPaddr("1.1.1.1"));
+    }
+
+    @Test
+    public void _1221_test() {
+        difficulty.easy._1221_split_a_string_in_balanced_strings.Solution solution = new difficulty.easy._1221_split_a_string_in_balanced_strings.Solution();
+        System.out.println(solution.balancedStringSplit("RLRL"));//2
+        System.out.println(solution.balancedStringSplit("RLLLLRRRLR"));//3
+        System.out.println(solution.balancedStringSplit("LLLLRRRR"));//1
     }
 
     @Test
@@ -49,5 +64,12 @@ public class TestSolution {
         Soluction soluction = new Soluction();
         int[] results = soluction.decompressRLElist(nums);
         System.out.println(Arrays.toString(results));
+    }
+
+    @Test
+    public void _1321_test() {
+        difficulty.easy._1321_maximum_69_number.Solution solution = new difficulty.easy._1321_maximum_69_number.Solution();
+        System.out.println(solution.maximum69Number(6969));
+
     }
 }

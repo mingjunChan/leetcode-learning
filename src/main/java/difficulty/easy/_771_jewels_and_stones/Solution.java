@@ -1,10 +1,12 @@
 package difficulty.easy._771_jewels_and_stones;
 
+import annotation.topics.HashTable;
+
 import java.util.HashSet;
 import java.util.Set;
 
 public class Solution {
-
+    @HashTable
     public int numJewelsInStones(String J, String S) {
         int result = 0;
         Set<Character> judge = new HashSet<Character>();
