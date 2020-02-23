@@ -2,36 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="363f5178-83ea-4a75-8113-0f4a7bf8bdc3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/_118_pascals_triangle/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/_498_diagonal_traverse/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/_54_spiral_matrix/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/_66_plus_one/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/_724_introduction_to_array/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/_747_largest_number_at_least_twice_of_others/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/bfs/_542_01_matrix/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/dfs/_494_target_sum/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/dfs/_542_01_matrix/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/dfs/_733_flood_fill/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/dfs/_841_keys_and_rooms/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/stack/_392_decode_string/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/stack/_94_binary_tree_inorder_traversal/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/_28_implement_strstr/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/_64_add_binary/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/topics/array/TestSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/topics/string/TestSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/_344_reverse_string/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestEntrance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestEntrance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/topics/graph/dfs/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/topics/graph/dfs/TestData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/topics/graph/dfs/TestSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/topics/graph/dfs/TestSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/topics/stack/TestSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/topics/stack/TestSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/topics/graph/dfs/_133_clone_graph/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/graph/dfs/_133_clone_graph/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/topics/graph/dfs/TestData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/topics/graph/dfs/TestData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/topics/graph/dfs/TestSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/topics/graph/dfs/TestSolution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/topics/stack/TestSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/topics/stack/TestSolution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/topics/string/TestSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/topics/string/TestSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/topics/string/TestSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/topics/string/TestSolution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,17 +73,7 @@
       <recent name="annotation.topics" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestSolution.test28">
-    <configuration name="TestEntrance.testIntegerNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode-learning" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestEntrance" />
-      <option name="METHOD_NAME" value="testIntegerNull" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestSolution.test344">
     <configuration name="TestSolution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode-learning" />
       <extension name="coverage">
@@ -157,6 +121,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestSolution.test344" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topics.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="topics.string" />
+      <option name="MAIN_CLASS_NAME" value="topics.string.TestSolution" />
+      <option name="METHOD_NAME" value="test344" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestSolution.test64" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode-learning" />
       <extension name="coverage">
@@ -175,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestSolution.test344" />
         <item itemvalue="JUnit.TestSolution.test28" />
         <item itemvalue="JUnit.TestSolution.test64" />
         <item itemvalue="JUnit.TestSolution" />
         <item itemvalue="JUnit.TestSolution.tesst118pascalsTriangle" />
-        <item itemvalue="JUnit.TestEntrance.testIntegerNull" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +218,7 @@
       <workItem from="1582032826893" duration="5457000" />
       <workItem from="1582083820607" duration="3125000" />
       <workItem from="1582174966813" duration="9851000" />
-      <workItem from="1582452057296" duration="295000" />
+      <workItem from="1582452057296" duration="1341000" />
     </task>
     <servers />
   </component>
@@ -292,10 +272,10 @@
       <screen x="0" y="23" width="1344" height="766" />
     </state>
     <state x="100" y="123" width="1144" height="565" key="DiffContextDialog/0.23.1344.766@0.23.1344.766" timestamp="1581782004453" />
-    <state width="1302" height="244" key="GridCell.Tab.0.bottom" timestamp="1582452386614">
+    <state width="1302" height="244" key="GridCell.Tab.0.bottom" timestamp="1582469469377">
       <screen x="0" y="23" width="1344" height="765" />
     </state>
-    <state width="1302" height="244" key="GridCell.Tab.0.bottom/0.23.1344.765@0.23.1344.765" timestamp="1582452386614" />
+    <state width="1302" height="244" key="GridCell.Tab.0.bottom/0.23.1344.765@0.23.1344.765" timestamp="1582469469377" />
     <state width="1302" height="224" key="GridCell.Tab.0.bottom/0.23.1344.766@0.23.1344.766" timestamp="1582129717664" />
     <state width="1302" height="244" key="GridCell.Tab.0.bottom/0.23.1344.768@0.23.1344.768" timestamp="1582129699502" />
     <state width="1302" height="224" key="GridCell.Tab.0.bottom/0.23.1344.769@0.23.1344.769" timestamp="1582391373849" />
@@ -303,10 +283,10 @@
     <state width="1302" height="224" key="GridCell.Tab.0.bottom/0.23.1344.771@0.23.1344.771" timestamp="1582205654775" />
     <state width="1302" height="191" key="GridCell.Tab.0.bottom/1344.23.1920.1057/0.23.1344.765@0.23.1344.765" timestamp="1579578310854" />
     <state width="1302" height="191" key="GridCell.Tab.0.bottom/1344.23.1920.1057/0.23.1344.766@0.23.1344.766" timestamp="1579594310222" />
-    <state width="1302" height="244" key="GridCell.Tab.0.center" timestamp="1582452386613">
+    <state width="1302" height="244" key="GridCell.Tab.0.center" timestamp="1582469469376">
       <screen x="0" y="23" width="1344" height="765" />
     </state>
-    <state width="1302" height="244" key="GridCell.Tab.0.center/0.23.1344.765@0.23.1344.765" timestamp="1582452386613" />
+    <state width="1302" height="244" key="GridCell.Tab.0.center/0.23.1344.765@0.23.1344.765" timestamp="1582469469376" />
     <state width="1302" height="224" key="GridCell.Tab.0.center/0.23.1344.766@0.23.1344.766" timestamp="1582129717664" />
     <state width="1302" height="244" key="GridCell.Tab.0.center/0.23.1344.768@0.23.1344.768" timestamp="1582129699502" />
     <state width="1302" height="224" key="GridCell.Tab.0.center/0.23.1344.769@0.23.1344.769" timestamp="1582391373849" />
@@ -314,10 +294,10 @@
     <state width="1302" height="224" key="GridCell.Tab.0.center/0.23.1344.771@0.23.1344.771" timestamp="1582205654774" />
     <state width="1302" height="191" key="GridCell.Tab.0.center/1344.23.1920.1057/0.23.1344.765@0.23.1344.765" timestamp="1579578310854" />
     <state width="1302" height="191" key="GridCell.Tab.0.center/1344.23.1920.1057/0.23.1344.766@0.23.1344.766" timestamp="1579594310222" />
-    <state width="1302" height="244" key="GridCell.Tab.0.left" timestamp="1582452386613">
+    <state width="1302" height="244" key="GridCell.Tab.0.left" timestamp="1582469469376">
       <screen x="0" y="23" width="1344" height="765" />
     </state>
-    <state width="1302" height="244" key="GridCell.Tab.0.left/0.23.1344.765@0.23.1344.765" timestamp="1582452386613" />
+    <state width="1302" height="244" key="GridCell.Tab.0.left/0.23.1344.765@0.23.1344.765" timestamp="1582469469376" />
     <state width="1302" height="224" key="GridCell.Tab.0.left/0.23.1344.766@0.23.1344.766" timestamp="1582129717663" />
     <state width="1302" height="244" key="GridCell.Tab.0.left/0.23.1344.768@0.23.1344.768" timestamp="1582129699501" />
     <state width="1302" height="224" key="GridCell.Tab.0.left/0.23.1344.769@0.23.1344.769" timestamp="1582391373849" />
@@ -325,10 +305,10 @@
     <state width="1302" height="224" key="GridCell.Tab.0.left/0.23.1344.771@0.23.1344.771" timestamp="1582205654774" />
     <state width="1302" height="191" key="GridCell.Tab.0.left/1344.23.1920.1057/0.23.1344.765@0.23.1344.765" timestamp="1579578310853" />
     <state width="1302" height="191" key="GridCell.Tab.0.left/1344.23.1920.1057/0.23.1344.766@0.23.1344.766" timestamp="1579594310221" />
-    <state width="1302" height="244" key="GridCell.Tab.0.right" timestamp="1582452386614">
+    <state width="1302" height="244" key="GridCell.Tab.0.right" timestamp="1582469469377">
       <screen x="0" y="23" width="1344" height="765" />
     </state>
-    <state width="1302" height="244" key="GridCell.Tab.0.right/0.23.1344.765@0.23.1344.765" timestamp="1582452386614" />
+    <state width="1302" height="244" key="GridCell.Tab.0.right/0.23.1344.765@0.23.1344.765" timestamp="1582469469377" />
     <state width="1302" height="224" key="GridCell.Tab.0.right/0.23.1344.766@0.23.1344.766" timestamp="1582129717664" />
     <state width="1302" height="244" key="GridCell.Tab.0.right/0.23.1344.768@0.23.1344.768" timestamp="1582129699502" />
     <state width="1302" height="224" key="GridCell.Tab.0.right/0.23.1344.769@0.23.1344.769" timestamp="1582391373849" />
@@ -431,10 +411,10 @@
       <screen x="0" y="23" width="1344" height="765" />
     </state>
     <state x="337" y="183" key="run.anything.popup/1344.23.1920.1057/0.23.1344.765@0.23.1344.765" timestamp="1579575114763" />
-    <state x="337" y="113" width="670" height="683" key="search.everywhere.popup" timestamp="1582204364928">
-      <screen x="0" y="23" width="1344" height="771" />
+    <state x="337" y="112" width="670" height="677" key="search.everywhere.popup" timestamp="1582469268613">
+      <screen x="0" y="23" width="1344" height="765" />
     </state>
-    <state x="337" y="112" width="670" height="677" key="search.everywhere.popup/0.23.1344.765@0.23.1344.765" timestamp="1582174971655" />
+    <state x="337" y="112" width="670" height="677" key="search.everywhere.popup/0.23.1344.765@0.23.1344.765" timestamp="1582469268613" />
     <state x="337" y="112" width="670" height="678" key="search.everywhere.popup/0.23.1344.766@0.23.1344.766" timestamp="1582083843986" />
     <state x="337" y="112" width="670" height="680" key="search.everywhere.popup/0.23.1344.768@0.23.1344.768" timestamp="1582124778207" />
     <state x="337" y="112" width="670" height="681" key="search.everywhere.popup/0.23.1344.769@0.23.1344.769" timestamp="1581342256546" />

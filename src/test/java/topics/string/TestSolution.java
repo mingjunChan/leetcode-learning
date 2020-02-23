@@ -4,6 +4,11 @@ import org.junit.Test;
 import topics.string._64_add_binary.Solution;
 
 public class TestSolution {
+    @Test
+    public void test344(){
+        topics.string._344_reverse_string.Solution solution = new topics.string._344_reverse_string.Solution();
+        solution.reverseString(new char[]{'h','e','l','l','o'});
+    }
 
     @Test
     public void test64() {
