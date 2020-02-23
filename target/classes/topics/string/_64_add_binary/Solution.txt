@@ -1,0 +1,250 @@
+Classfile /Users/chenmingjun/code/ideaProject_workSpace/leetcode-learning/target/classes/topics/string/_64_add_binary/Solution.class
+  Last modified 2020-2-20; size 1472 bytes
+  MD5 checksum beaca81e4cfa499b9af9e746b5352325
+  Compiled from "Solution.java"
+public class topics.string._64_add_binary.Solution
+  minor version: 0
+  major version: 51
+  flags: ACC_PUBLIC, ACC_SUPER
+Constant pool:
+   #1 = Methodref          #13.#46        // java/lang/Object."<init>":()V
+   #2 = Methodref          #47.#48        // java/lang/Integer.parseInt:(Ljava/lang/String;I)I
+   #3 = Methodref          #47.#49        // java/lang/Integer.toBinaryString:(I)Ljava/lang/String;
+   #4 = Methodref          #50.#51        // java/lang/String.length:()I
+   #5 = Methodref          #12.#52        // topics/string/_64_add_binary/Solution.addBinary:(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+   #6 = Class              #53            // java/lang/StringBuffer
+   #7 = Methodref          #6.#46         // java/lang/StringBuffer."<init>":()V
+   #8 = Methodref          #50.#54        // java/lang/String.toCharArray:()[C
+   #9 = Methodref          #6.#55         // java/lang/StringBuffer.append:(I)Ljava/lang/StringBuffer;
+  #10 = Methodref          #6.#56         // java/lang/StringBuffer.reverse:()Ljava/lang/StringBuffer;
+  #11 = Methodref          #6.#57         // java/lang/StringBuffer.toString:()Ljava/lang/String;
+  #12 = Class              #58            // topics/string/_64_add_binary/Solution
+  #13 = Class              #59            // java/lang/Object
+  #14 = Utf8               <init>
+  #15 = Utf8               ()V
+  #16 = Utf8               Code
+  #17 = Utf8               LineNumberTable
+  #18 = Utf8               LocalVariableTable
+  #19 = Utf8               this
+  #20 = Utf8               Ltopics/string/_64_add_binary/Solution;
+  #21 = Utf8               addBinary1
+  #22 = Utf8               (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+  #23 = Utf8               a
+  #24 = Utf8               Ljava/lang/String;
+  #25 = Utf8               b
+  #26 = Utf8               addBinary
+  #27 = Utf8               i
+  #28 = Utf8               I
+  #29 = Utf8               result
+  #30 = Utf8               aLength
+  #31 = Utf8               bLength
+  #32 = Utf8               temp
+  #33 = Utf8               buffer
+  #34 = Utf8               Ljava/lang/StringBuffer;
+  #35 = Utf8               aChars
+  #36 = Utf8               [C
+  #37 = Utf8               bChars
+  #38 = Utf8               index
+  #39 = Utf8               StackMapTable
+  #40 = Class              #60            // java/lang/String
+  #41 = Class              #58            // topics/string/_64_add_binary/Solution
+  #42 = Class              #53            // java/lang/StringBuffer
+  #43 = Class              #36            // "[C"
+  #44 = Utf8               SourceFile
+  #45 = Utf8               Solution.java
+  #46 = NameAndType        #14:#15        // "<init>":()V
+  #47 = Class              #61            // java/lang/Integer
+  #48 = NameAndType        #62:#63        // parseInt:(Ljava/lang/String;I)I
+  #49 = NameAndType        #64:#65        // toBinaryString:(I)Ljava/lang/String;
+  #50 = Class              #60            // java/lang/String
+  #51 = NameAndType        #66:#67        // length:()I
+  #52 = NameAndType        #26:#22        // addBinary:(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+  #53 = Utf8               java/lang/StringBuffer
+  #54 = NameAndType        #68:#69        // toCharArray:()[C
+  #55 = NameAndType        #70:#71        // append:(I)Ljava/lang/StringBuffer;
+  #56 = NameAndType        #72:#73        // reverse:()Ljava/lang/StringBuffer;
+  #57 = NameAndType        #74:#75        // toString:()Ljava/lang/String;
+  #58 = Utf8               topics/string/_64_add_binary/Solution
+  #59 = Utf8               java/lang/Object
+  #60 = Utf8               java/lang/String
+  #61 = Utf8               java/lang/Integer
+  #62 = Utf8               parseInt
+  #63 = Utf8               (Ljava/lang/String;I)I
+  #64 = Utf8               toBinaryString
+  #65 = Utf8               (I)Ljava/lang/String;
+  #66 = Utf8               length
+  #67 = Utf8               ()I
+  #68 = Utf8               toCharArray
+  #69 = Utf8               ()[C
+  #70 = Utf8               append
+  #71 = Utf8               (I)Ljava/lang/StringBuffer;
+  #72 = Utf8               reverse
+  #73 = Utf8               ()Ljava/lang/StringBuffer;
+  #74 = Utf8               toString
+  #75 = Utf8               ()Ljava/lang/String;
+{
+  public topics.string._64_add_binary.Solution();
+    descriptor: ()V
+    flags: ACC_PUBLIC
+    Code:
+      stack=1, locals=1, args_size=1
+         0: aload_0
+         1: invokespecial #1                  // Method java/lang/Object."<init>":()V
+         4: return
+      LineNumberTable:
+        line 3: 0
+      LocalVariableTable:
+        Start  Length  Slot  Name   Signature
+            0       5     0  this   Ltopics/string/_64_add_binary/Solution;
+
+  public java.lang.String addBinary1(java.lang.String, java.lang.String);
+    descriptor: (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+    flags: ACC_PUBLIC
+    Code:
+      stack=3, locals=3, args_size=3
+         0: aload_1
+         1: iconst_2
+         2: invokestatic  #2                  // Method java/lang/Integer.parseInt:(Ljava/lang/String;I)I
+         5: aload_2
+         6: iconst_2
+         7: invokestatic  #2                  // Method java/lang/Integer.parseInt:(Ljava/lang/String;I)I
+        10: iadd
+        11: invokestatic  #3                  // Method java/lang/Integer.toBinaryString:(I)Ljava/lang/String;
+        14: areturn
+      LineNumberTable:
+        line 6: 0
+      LocalVariableTable:
+        Start  Length  Slot  Name   Signature
+            0      15     0  this   Ltopics/string/_64_add_binary/Solution;
+            0      15     1     a   Ljava/lang/String;
+            0      15     2     b   Ljava/lang/String;
+
+  public java.lang.String addBinary(java.lang.String, java.lang.String);
+    descriptor: (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+    flags: ACC_PUBLIC
+    Code:
+      stack=3, locals=12, args_size=3
+         0: aconst_null
+         1: astore_3
+         2: aload_1
+         3: invokevirtual #4                  // Method java/lang/String.length:()I
+         6: istore        4
+         8: aload_2
+         9: invokevirtual #4                  // Method java/lang/String.length:()I
+        12: istore        5
+        14: iload         4
+        16: iload         5
+        18: if_icmpge     28
+        21: aload_0
+        22: aload_2
+        23: aload_1
+        24: invokevirtual #5                  // Method addBinary:(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+        27: areturn
+        28: iconst_0
+        29: istore        6
+        31: new           #6                  // class java/lang/StringBuffer
+        34: dup
+        35: invokespecial #7                  // Method java/lang/StringBuffer."<init>":()V
+        38: astore        7
+        40: aload_1
+        41: invokevirtual #8                  // Method java/lang/String.toCharArray:()[C
+        44: astore        8
+        46: aload_2
+        47: invokevirtual #8                  // Method java/lang/String.toCharArray:()[C
+        50: astore        9
+        52: iconst_0
+        53: istore        10
+        55: iload         4
+        57: iconst_1
+        58: isub
+        59: istore        11
+        61: iload         11
+        63: iflt          120
+        66: aload         8
+        68: iload         11
+        70: caload
+        71: iconst_1
+        72: if_icmpne     78
+        75: iinc          10, 1
+        78: iinc          5, -1
+        81: iload         5
+        83: iflt          98
+        86: aload         9
+        88: iload         5
+        90: caload
+        91: iconst_1
+        92: if_icmpne     98
+        95: iinc          10, 1
+        98: aload         7
+       100: iload         10
+       102: iconst_2
+       103: irem
+       104: invokevirtual #9                  // Method java/lang/StringBuffer.append:(I)Ljava/lang/StringBuffer;
+       107: pop
+       108: iload         10
+       110: iconst_2
+       111: idiv
+       112: istore        10
+       114: iinc          11, -1
+       117: goto          61
+       120: iload         10
+       122: iconst_1
+       123: if_icmpne     133
+       126: aload         7
+       128: iconst_1
+       129: invokevirtual #9                  // Method java/lang/StringBuffer.append:(I)Ljava/lang/StringBuffer;
+       132: pop
+       133: aload         7
+       135: invokevirtual #10                 // Method java/lang/StringBuffer.reverse:()Ljava/lang/StringBuffer;
+       138: invokevirtual #11                 // Method java/lang/StringBuffer.toString:()Ljava/lang/String;
+       141: areturn
+      LineNumberTable:
+        line 10: 0
+        line 11: 2
+        line 12: 8
+        line 13: 14
+        line 15: 28
+        line 16: 31
+        line 17: 40
+        line 18: 46
+        line 19: 52
+        line 20: 55
+        line 21: 66
+        line 22: 75
+        line 24: 78
+        line 25: 95
+        line 27: 98
+        line 28: 108
+        line 20: 114
+        line 30: 120
+        line 31: 126
+        line 33: 133
+      LocalVariableTable:
+        Start  Length  Slot  Name   Signature
+           61      59    11     i   I
+            0     142     0  this   Ltopics/string/_64_add_binary/Solution;
+            0     142     1     a   Ljava/lang/String;
+            0     142     2     b   Ljava/lang/String;
+            2     140     3 result   Ljava/lang/String;
+            8     134     4 aLength   I
+           14     128     5 bLength   I
+           31     111     6  temp   I
+           40     102     7 buffer   Ljava/lang/StringBuffer;
+           46      96     8 aChars   [C
+           52      90     9 bChars   [C
+           55      87    10 index   I
+      StackMapTable: number_of_entries = 6
+        frame_type = 254 /* append */
+          offset_delta = 28
+          locals = [ class java/lang/String, int, int ]
+        frame_type = 255 /* full_frame */
+          offset_delta = 32
+          locals = [ class topics/string/_64_add_binary/Solution, class java/lang/String, class java/lang/String, class java/lang/String, int, int, int, class java/lang/StringBuffer, class "[C", class "[C", int, int ]
+          stack = []
+        frame_type = 16 /* same */
+        frame_type = 19 /* same */
+        frame_type = 250 /* chop */
+          offset_delta = 21
+        frame_type = 12 /* same */
+}
+SourceFile: "Solution.java"

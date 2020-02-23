@@ -1,10 +1,23 @@
 package topics.stack;
 
+import annotation.topics.Stack;
 import com.sun.xml.internal.xsom.impl.ForeignAttributesImpl;
 import org.junit.Test;
 import topics.stack._20_valid_parentheses.Solution;
 
 public class TestSolution {
+
+    @Test
+    public void _392decodeString(){
+        topics.stack._392_decode_string.Solution solution = new topics.stack._392_decode_string.Solution();
+        System.out.println(solution.decodeString("3[a]2[bc]"));//aaabcbc
+        System.out.println(solution.decodeString("3[a2[c]]"));//accaccacc
+       System.out.println(solution.decodeString("2[abc]3[cd]ef"));//abcabccdcdcdef
+    }
+
+
+
+
     @Test
     public void _150testEvalRPN() {
         topics.stack._150_evaluate_reverse_polish_notation.Solution solution = new topics.stack._150_evaluate_reverse_polish_notation.Solution();

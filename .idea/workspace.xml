@@ -2,46 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="363f5178-83ea-4a75-8113-0f4a7bf8bdc3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/topics/HashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/topics/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/topics/Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/topics/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/base/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/difficulty/easy/_1021_remove_outermost_parentheses/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/difficulty/easy/_1221_split_a_string_in_balanced_strings/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/difficulty/easy/_1321_maximum_69_number/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/difficulty/easy/_237_delete_node_in_a_linked_list/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/bfs/_200_number_of_islands/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/bfs/_279_perfect_squares/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/bfs/_752_open_the_lock/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/bfs/note1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/dfs/_133_clone_graph/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/dfs/_133_clone_graph/Solution2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/dfs/_200_number_of_islands/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/queue/MyCircularQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/stack/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/stack/_150_evaluate_reverse_polish_notation/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/stack/_20_valid_parentheses/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/stack/_739_daily_temperatures/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/BSTIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/topics/tree/BSTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestEntrance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/topics/graph/bfs/TestSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/topics/graph/dfs/TestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/topics/graph/dfs/TestSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/topics/queue/TestSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/topics/stack/TestSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/topics/tree/TestSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/util/ArrayUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/_118_pascals_triangle/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/_498_diagonal_traverse/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/_54_spiral_matrix/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/_66_plus_one/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/_724_introduction_to_array/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/array/_747_largest_number_at_least_twice_of_others/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/bfs/_542_01_matrix/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/dfs/_494_target_sum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/dfs/_542_01_matrix/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/dfs/_733_flood_fill/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/graph/dfs/_841_keys_and_rooms/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/stack/_392_decode_string/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/stack/_94_binary_tree_inorder_traversal/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/_28_implement_strstr/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/topics/string/_64_add_binary/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/topics/array/TestSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/topics/string/TestSolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/difficulty/easy/_771_jewels_and_stones/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/difficulty/easy/_771_jewels_and_stones/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/difficulty/easy/TestSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/difficulty/easy/TestSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/difficulty/easy/_771_jewels_and_stones/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/difficulty/easy/_771_jewels_and_stones/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/difficulty/easy/TestSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/difficulty/easy/TestSolution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestEntrance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestEntrance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/topics/graph/dfs/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/topics/graph/dfs/TestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/topics/graph/dfs/TestSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/topics/graph/dfs/TestSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/topics/stack/TestSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/topics/stack/TestSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/topics/graph/dfs/_133_clone_graph/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/topics/graph/dfs/_133_clone_graph/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestEntrance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/topics/graph/dfs/TestData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/topics/graph/dfs/TestData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/topics/graph/dfs/TestSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/topics/graph/dfs/TestSolution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/topics/stack/TestSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/topics/stack/TestSolution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,11 +67,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JavaAutoRunManager">
-    <enabled-run-configurations>
-      <run-configuration type="JUnit" name="TestSolution.testCloneGraph" />
-    </enabled-run-configurations>
-  </component>
   <component name="ProjectId" id="1WeVNCcpmJD528gfx2k21vDTKD1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -94,83 +79,95 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/domain" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="topics.graph.bfs" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/domain" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="topics.graph.bfs._542_01_matrix" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="annotation.topics" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestSolution.testCloneGraph">
-    <configuration name="TestEntrance.testAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestSolution.test28">
+    <configuration name="TestEntrance.testIntegerNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode-learning" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestEntrance" />
-      <option name="METHOD_NAME" value="testAll" />
+      <option name="METHOD_NAME" value="testIntegerNull" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestEntrance.testInderOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode-learning" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestEntrance" />
-      <option name="METHOD_NAME" value="testInderOf" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSolution._150testEvalRPN" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSolution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode-learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="topics.stack.*" />
+          <option name="PATTERN" value="topics.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="topics.stack" />
-      <option name="MAIN_CLASS_NAME" value="topics.stack.TestSolution" />
-      <option name="METHOD_NAME" value="_150testEvalRPN" />
+      <option name="PACKAGE_NAME" value="topics.string" />
+      <option name="MAIN_CLASS_NAME" value="topics.string.TestSolution" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSolution.tesst118pascalsTriangle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topics.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="topics.array" />
+      <option name="MAIN_CLASS_NAME" value="topics.array.TestSolution" />
+      <option name="METHOD_NAME" value="tesst118pascalsTriangle" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSolution.testCloneGraph" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSolution.test28" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode-learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="topics.graph.dfs.*" />
+          <option name="PATTERN" value="topics.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="topics.graph.dfs" />
-      <option name="MAIN_CLASS_NAME" value="topics.graph.dfs.TestSolution" />
-      <option name="METHOD_NAME" value="testCloneGraph" />
+      <option name="PACKAGE_NAME" value="topics.string" />
+      <option name="MAIN_CLASS_NAME" value="topics.string.TestSolution" />
+      <option name="METHOD_NAME" value="test28" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSolution.testNumberOfIslands" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSolution.test64" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode-learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="topics.graph.dfs.*" />
+          <option name="PATTERN" value="topics.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="topics.graph.dfs" />
-      <option name="MAIN_CLASS_NAME" value="topics.graph.dfs.TestSolution" />
-      <option name="METHOD_NAME" value="testNumberOfIslands" />
+      <option name="PACKAGE_NAME" value="topics.string" />
+      <option name="MAIN_CLASS_NAME" value="topics.string.TestSolution" />
+      <option name="METHOD_NAME" value="test64" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -178,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestSolution.testCloneGraph" />
-        <item itemvalue="JUnit.TestEntrance.testAll" />
-        <item itemvalue="JUnit.TestSolution.testNumberOfIslands" />
-        <item itemvalue="JUnit.TestSolution._150testEvalRPN" />
-        <item itemvalue="JUnit.TestEntrance.testInderOf" />
+        <item itemvalue="JUnit.TestSolution.test28" />
+        <item itemvalue="JUnit.TestSolution.test64" />
+        <item itemvalue="JUnit.TestSolution" />
+        <item itemvalue="JUnit.TestSolution.tesst118pascalsTriangle" />
+        <item itemvalue="JUnit.TestEntrance.testIntegerNull" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +220,25 @@
       <workItem from="1580264312988" duration="21165000" />
       <workItem from="1580440381348" duration="5987000" />
       <workItem from="1580694295328" duration="7398000" />
-      <workItem from="1580730707567" duration="2161000" />
+      <workItem from="1580730707567" duration="2743000" />
+      <workItem from="1580733479778" duration="97000" />
+      <workItem from="1580733590454" duration="561000" />
+      <workItem from="1581069409292" duration="3319000" />
+      <workItem from="1581239188759" duration="2861000" />
+      <workItem from="1581320156304" duration="7867000" />
+      <workItem from="1581470864169" duration="1763000" />
+      <workItem from="1581479405341" duration="146000" />
+      <workItem from="1581481847444" duration="1125000" />
+      <workItem from="1581518663564" duration="2793000" />
+      <workItem from="1581562174972" duration="7867000" />
+      <workItem from="1581679940917" duration="6436000" />
+      <workItem from="1581780529160" duration="326000" />
+      <workItem from="1581781017705" duration="4228000" />
+      <workItem from="1581862556948" duration="6588000" />
+      <workItem from="1582032826893" duration="5457000" />
+      <workItem from="1582083820607" duration="3125000" />
+      <workItem from="1582174966813" duration="9851000" />
+      <workItem from="1582452057296" duration="295000" />
     </task>
     <servers />
   </component>
@@ -231,6 +246,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="272" y="72" key="#Notifications" timestamp="1582032884788">
+      <screen x="0" y="23" width="1344" height="768" />
+    </state>
+    <state x="272" y="72" key="#Notifications/0.23.1344.768@0.23.1344.768" timestamp="1582032884788" />
     <state x="238" y="77" key="#TestSolution.testCloneGraph" timestamp="1580730814688">
       <screen x="0" y="23" width="1344" height="769" />
     </state>
@@ -248,10 +267,11 @@
       <screen x="0" y="23" width="1344" height="765" />
     </state>
     <state x="410" y="191" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1344.765@0.23.1344.765" timestamp="1579785971594" />
-    <state x="231" y="79" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1580138938400">
-      <screen x="0" y="23" width="1344" height="766" />
+    <state x="231" y="79" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1581519325780">
+      <screen x="0" y="23" width="1344" height="768" />
     </state>
     <state x="231" y="79" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1344.766@0.23.1344.766" timestamp="1580138938400" />
+    <state x="231" y="79" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1344.768@0.23.1344.768" timestamp="1581519325780" />
     <state x="206" y="325" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580134735530">
       <screen x="0" y="23" width="1344" height="768" />
     </state>
@@ -260,83 +280,117 @@
       <screen x="0" y="23" width="1344" height="768" />
     </state>
     <state x="436" y="271" width="471" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1344.768@0.23.1344.768" timestamp="1580464266274" />
-    <state width="1302" height="156" key="GridCell.Tab.0.bottom" timestamp="1580732331546">
-      <screen x="0" y="23" width="1344" height="769" />
+    <state x="84" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582203171376">
+      <screen x="0" y="23" width="1344" height="771" />
     </state>
-    <state width="1302" height="197" key="GridCell.Tab.0.bottom/0.23.1344.765@0.23.1344.765" timestamp="1580529155958" />
-    <state width="1302" height="191" key="GridCell.Tab.0.bottom/0.23.1344.766@0.23.1344.766" timestamp="1580379226338" />
-    <state width="1302" height="263" key="GridCell.Tab.0.bottom/0.23.1344.768@0.23.1344.768" timestamp="1580723242282" />
-    <state width="1302" height="156" key="GridCell.Tab.0.bottom/0.23.1344.769@0.23.1344.769" timestamp="1580732331546" />
+    <state x="84" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1344.771@0.23.1344.771" timestamp="1582203171376" />
+    <state x="434" y="230" width="477" height="467" key="#com.intellij.tools.ToolEditorDialog" timestamp="1582452351202">
+      <screen x="0" y="23" width="1344" height="765" />
+    </state>
+    <state x="434" y="230" width="477" height="467" key="#com.intellij.tools.ToolEditorDialog/0.23.1344.765@0.23.1344.765" timestamp="1582452351202" />
+    <state x="100" y="123" width="1144" height="565" key="DiffContextDialog" timestamp="1581782004453">
+      <screen x="0" y="23" width="1344" height="766" />
+    </state>
+    <state x="100" y="123" width="1144" height="565" key="DiffContextDialog/0.23.1344.766@0.23.1344.766" timestamp="1581782004453" />
+    <state width="1302" height="244" key="GridCell.Tab.0.bottom" timestamp="1582452386614">
+      <screen x="0" y="23" width="1344" height="765" />
+    </state>
+    <state width="1302" height="244" key="GridCell.Tab.0.bottom/0.23.1344.765@0.23.1344.765" timestamp="1582452386614" />
+    <state width="1302" height="224" key="GridCell.Tab.0.bottom/0.23.1344.766@0.23.1344.766" timestamp="1582129717664" />
+    <state width="1302" height="244" key="GridCell.Tab.0.bottom/0.23.1344.768@0.23.1344.768" timestamp="1582129699502" />
+    <state width="1302" height="224" key="GridCell.Tab.0.bottom/0.23.1344.769@0.23.1344.769" timestamp="1582391373849" />
+    <state width="1302" height="244" key="GridCell.Tab.0.bottom/0.23.1344.770@0.23.1344.770" timestamp="1582209289497" />
+    <state width="1302" height="224" key="GridCell.Tab.0.bottom/0.23.1344.771@0.23.1344.771" timestamp="1582205654775" />
     <state width="1302" height="191" key="GridCell.Tab.0.bottom/1344.23.1920.1057/0.23.1344.765@0.23.1344.765" timestamp="1579578310854" />
     <state width="1302" height="191" key="GridCell.Tab.0.bottom/1344.23.1920.1057/0.23.1344.766@0.23.1344.766" timestamp="1579594310222" />
-    <state width="1302" height="156" key="GridCell.Tab.0.center" timestamp="1580732331545">
-      <screen x="0" y="23" width="1344" height="769" />
+    <state width="1302" height="244" key="GridCell.Tab.0.center" timestamp="1582452386613">
+      <screen x="0" y="23" width="1344" height="765" />
     </state>
-    <state width="1302" height="197" key="GridCell.Tab.0.center/0.23.1344.765@0.23.1344.765" timestamp="1580529155957" />
-    <state width="1302" height="191" key="GridCell.Tab.0.center/0.23.1344.766@0.23.1344.766" timestamp="1580379226337" />
-    <state width="1302" height="263" key="GridCell.Tab.0.center/0.23.1344.768@0.23.1344.768" timestamp="1580723242282" />
-    <state width="1302" height="156" key="GridCell.Tab.0.center/0.23.1344.769@0.23.1344.769" timestamp="1580732331545" />
+    <state width="1302" height="244" key="GridCell.Tab.0.center/0.23.1344.765@0.23.1344.765" timestamp="1582452386613" />
+    <state width="1302" height="224" key="GridCell.Tab.0.center/0.23.1344.766@0.23.1344.766" timestamp="1582129717664" />
+    <state width="1302" height="244" key="GridCell.Tab.0.center/0.23.1344.768@0.23.1344.768" timestamp="1582129699502" />
+    <state width="1302" height="224" key="GridCell.Tab.0.center/0.23.1344.769@0.23.1344.769" timestamp="1582391373849" />
+    <state width="1302" height="244" key="GridCell.Tab.0.center/0.23.1344.770@0.23.1344.770" timestamp="1582209289496" />
+    <state width="1302" height="224" key="GridCell.Tab.0.center/0.23.1344.771@0.23.1344.771" timestamp="1582205654774" />
     <state width="1302" height="191" key="GridCell.Tab.0.center/1344.23.1920.1057/0.23.1344.765@0.23.1344.765" timestamp="1579578310854" />
     <state width="1302" height="191" key="GridCell.Tab.0.center/1344.23.1920.1057/0.23.1344.766@0.23.1344.766" timestamp="1579594310222" />
-    <state width="1302" height="156" key="GridCell.Tab.0.left" timestamp="1580732331545">
-      <screen x="0" y="23" width="1344" height="769" />
+    <state width="1302" height="244" key="GridCell.Tab.0.left" timestamp="1582452386613">
+      <screen x="0" y="23" width="1344" height="765" />
     </state>
-    <state width="1302" height="197" key="GridCell.Tab.0.left/0.23.1344.765@0.23.1344.765" timestamp="1580529155957" />
-    <state width="1302" height="191" key="GridCell.Tab.0.left/0.23.1344.766@0.23.1344.766" timestamp="1580379226337" />
-    <state width="1302" height="263" key="GridCell.Tab.0.left/0.23.1344.768@0.23.1344.768" timestamp="1580723242282" />
-    <state width="1302" height="156" key="GridCell.Tab.0.left/0.23.1344.769@0.23.1344.769" timestamp="1580732331545" />
+    <state width="1302" height="244" key="GridCell.Tab.0.left/0.23.1344.765@0.23.1344.765" timestamp="1582452386613" />
+    <state width="1302" height="224" key="GridCell.Tab.0.left/0.23.1344.766@0.23.1344.766" timestamp="1582129717663" />
+    <state width="1302" height="244" key="GridCell.Tab.0.left/0.23.1344.768@0.23.1344.768" timestamp="1582129699501" />
+    <state width="1302" height="224" key="GridCell.Tab.0.left/0.23.1344.769@0.23.1344.769" timestamp="1582391373849" />
+    <state width="1302" height="244" key="GridCell.Tab.0.left/0.23.1344.770@0.23.1344.770" timestamp="1582209289496" />
+    <state width="1302" height="224" key="GridCell.Tab.0.left/0.23.1344.771@0.23.1344.771" timestamp="1582205654774" />
     <state width="1302" height="191" key="GridCell.Tab.0.left/1344.23.1920.1057/0.23.1344.765@0.23.1344.765" timestamp="1579578310853" />
     <state width="1302" height="191" key="GridCell.Tab.0.left/1344.23.1920.1057/0.23.1344.766@0.23.1344.766" timestamp="1579594310221" />
-    <state width="1302" height="156" key="GridCell.Tab.0.right" timestamp="1580732331546">
-      <screen x="0" y="23" width="1344" height="769" />
+    <state width="1302" height="244" key="GridCell.Tab.0.right" timestamp="1582452386614">
+      <screen x="0" y="23" width="1344" height="765" />
     </state>
-    <state width="1302" height="197" key="GridCell.Tab.0.right/0.23.1344.765@0.23.1344.765" timestamp="1580529155958" />
-    <state width="1302" height="191" key="GridCell.Tab.0.right/0.23.1344.766@0.23.1344.766" timestamp="1580379226338" />
-    <state width="1302" height="263" key="GridCell.Tab.0.right/0.23.1344.768@0.23.1344.768" timestamp="1580723242282" />
-    <state width="1302" height="156" key="GridCell.Tab.0.right/0.23.1344.769@0.23.1344.769" timestamp="1580732331546" />
+    <state width="1302" height="244" key="GridCell.Tab.0.right/0.23.1344.765@0.23.1344.765" timestamp="1582452386614" />
+    <state width="1302" height="224" key="GridCell.Tab.0.right/0.23.1344.766@0.23.1344.766" timestamp="1582129717664" />
+    <state width="1302" height="244" key="GridCell.Tab.0.right/0.23.1344.768@0.23.1344.768" timestamp="1582129699502" />
+    <state width="1302" height="224" key="GridCell.Tab.0.right/0.23.1344.769@0.23.1344.769" timestamp="1582391373849" />
+    <state width="1302" height="244" key="GridCell.Tab.0.right/0.23.1344.770@0.23.1344.770" timestamp="1582209289497" />
+    <state width="1302" height="224" key="GridCell.Tab.0.right/0.23.1344.771@0.23.1344.771" timestamp="1582205654775" />
     <state width="1302" height="191" key="GridCell.Tab.0.right/1344.23.1920.1057/0.23.1344.765@0.23.1344.765" timestamp="1579578310854" />
     <state width="1302" height="191" key="GridCell.Tab.0.right/1344.23.1920.1057/0.23.1344.766@0.23.1344.766" timestamp="1579594310222" />
-    <state width="1302" height="156" key="GridCell.Tab.1.bottom" timestamp="1580732331548">
+    <state width="1302" height="224" key="GridCell.Tab.1.bottom" timestamp="1582391373850">
       <screen x="0" y="23" width="1344" height="769" />
     </state>
-    <state width="1302" height="197" key="GridCell.Tab.1.bottom/0.23.1344.765@0.23.1344.765" timestamp="1580529155959" />
-    <state width="1302" height="296" key="GridCell.Tab.1.bottom/0.23.1344.766@0.23.1344.766" timestamp="1580302708722" />
-    <state width="1302" height="263" key="GridCell.Tab.1.bottom/0.23.1344.768@0.23.1344.768" timestamp="1580723242283" />
-    <state width="1302" height="156" key="GridCell.Tab.1.bottom/0.23.1344.769@0.23.1344.769" timestamp="1580732331548" />
-    <state width="1302" height="156" key="GridCell.Tab.1.center" timestamp="1580732331547">
+    <state width="1302" height="224" key="GridCell.Tab.1.bottom/0.23.1344.765@0.23.1344.765" timestamp="1581695696047" />
+    <state width="1302" height="224" key="GridCell.Tab.1.bottom/0.23.1344.766@0.23.1344.766" timestamp="1582129717665" />
+    <state width="1302" height="224" key="GridCell.Tab.1.bottom/0.23.1344.768@0.23.1344.768" timestamp="1582124892896" />
+    <state width="1302" height="224" key="GridCell.Tab.1.bottom/0.23.1344.769@0.23.1344.769" timestamp="1582391373850" />
+    <state width="1302" height="224" key="GridCell.Tab.1.bottom/0.23.1344.770@0.23.1344.770" timestamp="1582209187241" />
+    <state width="1302" height="224" key="GridCell.Tab.1.bottom/0.23.1344.771@0.23.1344.771" timestamp="1582205654776" />
+    <state width="1302" height="224" key="GridCell.Tab.1.center" timestamp="1582391373850">
       <screen x="0" y="23" width="1344" height="769" />
     </state>
-    <state width="1302" height="197" key="GridCell.Tab.1.center/0.23.1344.765@0.23.1344.765" timestamp="1580529155958" />
-    <state width="1302" height="296" key="GridCell.Tab.1.center/0.23.1344.766@0.23.1344.766" timestamp="1580302708722" />
-    <state width="1302" height="263" key="GridCell.Tab.1.center/0.23.1344.768@0.23.1344.768" timestamp="1580723242283" />
-    <state width="1302" height="156" key="GridCell.Tab.1.center/0.23.1344.769@0.23.1344.769" timestamp="1580732331547" />
-    <state width="1302" height="156" key="GridCell.Tab.1.left" timestamp="1580732331546">
+    <state width="1302" height="224" key="GridCell.Tab.1.center/0.23.1344.765@0.23.1344.765" timestamp="1581695696047" />
+    <state width="1302" height="224" key="GridCell.Tab.1.center/0.23.1344.766@0.23.1344.766" timestamp="1582129717664" />
+    <state width="1302" height="224" key="GridCell.Tab.1.center/0.23.1344.768@0.23.1344.768" timestamp="1582124892895" />
+    <state width="1302" height="224" key="GridCell.Tab.1.center/0.23.1344.769@0.23.1344.769" timestamp="1582391373850" />
+    <state width="1302" height="224" key="GridCell.Tab.1.center/0.23.1344.770@0.23.1344.770" timestamp="1582209187241" />
+    <state width="1302" height="224" key="GridCell.Tab.1.center/0.23.1344.771@0.23.1344.771" timestamp="1582205654775" />
+    <state width="1302" height="224" key="GridCell.Tab.1.left" timestamp="1582391373850">
       <screen x="0" y="23" width="1344" height="769" />
     </state>
-    <state width="1302" height="197" key="GridCell.Tab.1.left/0.23.1344.765@0.23.1344.765" timestamp="1580529155958" />
-    <state width="1302" height="296" key="GridCell.Tab.1.left/0.23.1344.766@0.23.1344.766" timestamp="1580302708721" />
-    <state width="1302" height="263" key="GridCell.Tab.1.left/0.23.1344.768@0.23.1344.768" timestamp="1580723242282" />
-    <state width="1302" height="156" key="GridCell.Tab.1.left/0.23.1344.769@0.23.1344.769" timestamp="1580732331546" />
-    <state width="1302" height="156" key="GridCell.Tab.1.right" timestamp="1580732331547">
+    <state width="1302" height="224" key="GridCell.Tab.1.left/0.23.1344.765@0.23.1344.765" timestamp="1581695696047" />
+    <state width="1302" height="224" key="GridCell.Tab.1.left/0.23.1344.766@0.23.1344.766" timestamp="1582129717664" />
+    <state width="1302" height="224" key="GridCell.Tab.1.left/0.23.1344.768@0.23.1344.768" timestamp="1582124892895" />
+    <state width="1302" height="224" key="GridCell.Tab.1.left/0.23.1344.769@0.23.1344.769" timestamp="1582391373850" />
+    <state width="1302" height="224" key="GridCell.Tab.1.left/0.23.1344.770@0.23.1344.770" timestamp="1582209187240" />
+    <state width="1302" height="224" key="GridCell.Tab.1.left/0.23.1344.771@0.23.1344.771" timestamp="1582205654775" />
+    <state width="1302" height="224" key="GridCell.Tab.1.right" timestamp="1582391373850">
       <screen x="0" y="23" width="1344" height="769" />
     </state>
-    <state width="1302" height="197" key="GridCell.Tab.1.right/0.23.1344.765@0.23.1344.765" timestamp="1580529155959" />
-    <state width="1302" height="296" key="GridCell.Tab.1.right/0.23.1344.766@0.23.1344.766" timestamp="1580302708722" />
-    <state width="1302" height="263" key="GridCell.Tab.1.right/0.23.1344.768@0.23.1344.768" timestamp="1580723242283" />
-    <state width="1302" height="156" key="GridCell.Tab.1.right/0.23.1344.769@0.23.1344.769" timestamp="1580732331547" />
+    <state width="1302" height="224" key="GridCell.Tab.1.right/0.23.1344.765@0.23.1344.765" timestamp="1581695696047" />
+    <state width="1302" height="224" key="GridCell.Tab.1.right/0.23.1344.766@0.23.1344.766" timestamp="1582129717664" />
+    <state width="1302" height="224" key="GridCell.Tab.1.right/0.23.1344.768@0.23.1344.768" timestamp="1582124892896" />
+    <state width="1302" height="224" key="GridCell.Tab.1.right/0.23.1344.769@0.23.1344.769" timestamp="1582391373850" />
+    <state width="1302" height="224" key="GridCell.Tab.1.right/0.23.1344.770@0.23.1344.770" timestamp="1582209187241" />
+    <state width="1302" height="224" key="GridCell.Tab.1.right/0.23.1344.771@0.23.1344.771" timestamp="1582205654776" />
     <state x="370" y="123" key="RollbackChangesDialog" timestamp="1580464569356">
       <screen x="0" y="23" width="1344" height="768" />
     </state>
     <state x="370" y="123" key="RollbackChangesDialog/0.23.1344.768@0.23.1344.768" timestamp="1580464569356" />
-    <state x="173" y="23" key="SettingsEditor" timestamp="1580386724079">
-      <screen x="0" y="23" width="1344" height="768" />
+    <state x="173" y="23" key="SettingsEditor" timestamp="1582452352842">
+      <screen x="0" y="23" width="1344" height="765" />
     </state>
-    <state x="173" y="23" key="SettingsEditor/0.23.1344.765@0.23.1344.765" timestamp="1579786149949" />
-    <state x="173" y="23" key="SettingsEditor/0.23.1344.766@0.23.1344.766" timestamp="1580301904559" />
-    <state x="173" y="23" key="SettingsEditor/0.23.1344.768@0.23.1344.768" timestamp="1580386724079" />
+    <state x="173" y="23" key="SettingsEditor/0.23.1344.765@0.23.1344.765" timestamp="1582452352842" />
+    <state x="173" y="23" key="SettingsEditor/0.23.1344.766@0.23.1344.766" timestamp="1581781543565" />
+    <state x="173" y="23" key="SettingsEditor/0.23.1344.768@0.23.1344.768" timestamp="1581602259355" />
+    <state x="173" y="23" key="SettingsEditor/0.23.1344.769@0.23.1344.769" timestamp="1580733573571" />
+    <state x="173" y="23" key="SettingsEditor/0.23.1344.771@0.23.1344.771" timestamp="1582202987050" />
     <state x="173" y="23" key="SettingsEditor/1344.23.1920.1057/0.23.1344.765@0.23.1344.765" timestamp="1579577811887" />
     <state x="173" y="23" key="SettingsEditor/1344.23.1920.1057/0.23.1344.766@0.23.1344.766" timestamp="1579590599273" />
     <state x="173" y="23" key="SettingsEditor/1344.23.1920.1057/0.23.1344.768@0.23.1344.768" timestamp="1579511358766" />
+    <state x="287" y="116" width="540" height="524" key="StructurePopup" timestamp="1581342302219">
+      <screen x="0" y="23" width="1344" height="769" />
+    </state>
+    <state x="287" y="116" width="540" height="524" key="StructurePopup/0.23.1344.769@0.23.1344.769" timestamp="1581342302219" />
     <state width="692" height="445" key="SwitcherDM" timestamp="1580267301406">
       <screen x="0" y="23" width="1344" height="766" />
     </state>
@@ -345,12 +399,13 @@
       <screen x="0" y="23" width="1344" height="768" />
     </state>
     <state x="100" y="123" width="1144" height="565" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1344.768@0.23.1344.768" timestamp="1580464669451" />
-    <state x="326" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1580730707260">
-      <screen x="0" y="23" width="1344" height="769" />
+    <state x="326" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1582452102353">
+      <screen x="0" y="23" width="1344" height="765" />
     </state>
-    <state x="326" y="240" key="com.intellij.ide.util.TipDialog/0.23.1344.765@0.23.1344.765" timestamp="1580694297263" />
-    <state x="326" y="240" key="com.intellij.ide.util.TipDialog/0.23.1344.766@0.23.1344.766" timestamp="1580264333783" />
-    <state x="326" y="241" key="com.intellij.ide.util.TipDialog/0.23.1344.769@0.23.1344.769" timestamp="1580730707260" />
+    <state x="326" y="240" key="com.intellij.ide.util.TipDialog/0.23.1344.765@0.23.1344.765" timestamp="1582452102353" />
+    <state x="326" y="240" key="com.intellij.ide.util.TipDialog/0.23.1344.766@0.23.1344.766" timestamp="1582083826387" />
+    <state x="326" y="241" key="com.intellij.ide.util.TipDialog/0.23.1344.768@0.23.1344.768" timestamp="1582032828267" />
+    <state x="326" y="241" key="com.intellij.ide.util.TipDialog/0.23.1344.769@0.23.1344.769" timestamp="1581679940699" />
     <state x="326" y="240" key="com.intellij.ide.util.TipDialog/1344.23.1920.1057/0.23.1344.765@0.23.1344.765" timestamp="1579573725292" />
     <state x="326" y="240" key="com.intellij.ide.util.TipDialog/1344.23.1920.1057/0.23.1344.766@0.23.1344.766" timestamp="1579590166306" />
     <state x="309" y="29" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580391947472">
@@ -365,21 +420,25 @@
       <screen x="0" y="23" width="1344" height="768" />
     </state>
     <state x="219" y="150" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1344.768@0.23.1344.768" timestamp="1580701193413" />
-    <state x="249" y="136" width="845" height="539" key="find.popup" timestamp="1580295380137">
-      <screen x="0" y="23" width="1344" height="766" />
+    <state x="249" y="136" width="845" height="544" key="find.popup" timestamp="1582202952675">
+      <screen x="0" y="23" width="1344" height="771" />
     </state>
-    <state x="249" y="136" width="845" height="538" key="find.popup/0.23.1344.765@0.23.1344.765" timestamp="1579949470646" />
-    <state x="249" y="136" width="845" height="539" key="find.popup/0.23.1344.766@0.23.1344.766" timestamp="1580295380137" />
+    <state x="249" y="136" width="845" height="538" key="find.popup/0.23.1344.765@0.23.1344.765" timestamp="1581866363013" />
+    <state x="249" y="136" width="845" height="539" key="find.popup/0.23.1344.766@0.23.1344.766" timestamp="1582083840865" />
+    <state x="249" y="136" width="845" height="541" key="find.popup/0.23.1344.768@0.23.1344.768" timestamp="1582124566694" />
+    <state x="249" y="136" width="845" height="544" key="find.popup/0.23.1344.771@0.23.1344.771" timestamp="1582202952675" />
     <state x="337" y="183" key="run.anything.popup" timestamp="1579575114763">
       <screen x="0" y="23" width="1344" height="765" />
     </state>
     <state x="337" y="183" key="run.anything.popup/1344.23.1920.1057/0.23.1344.765@0.23.1344.765" timestamp="1579575114763" />
-    <state x="337" y="112" width="670" height="680" key="search.everywhere.popup" timestamp="1580700004507">
-      <screen x="0" y="23" width="1344" height="768" />
+    <state x="337" y="113" width="670" height="683" key="search.everywhere.popup" timestamp="1582204364928">
+      <screen x="0" y="23" width="1344" height="771" />
     </state>
-    <state x="337" y="112" width="670" height="677" key="search.everywhere.popup/0.23.1344.765@0.23.1344.765" timestamp="1580264652786" />
-    <state x="337" y="112" width="670" height="678" key="search.everywhere.popup/0.23.1344.766@0.23.1344.766" timestamp="1580303514201" />
-    <state x="337" y="112" width="670" height="680" key="search.everywhere.popup/0.23.1344.768@0.23.1344.768" timestamp="1580700004507" />
+    <state x="337" y="112" width="670" height="677" key="search.everywhere.popup/0.23.1344.765@0.23.1344.765" timestamp="1582174971655" />
+    <state x="337" y="112" width="670" height="678" key="search.everywhere.popup/0.23.1344.766@0.23.1344.766" timestamp="1582083843986" />
+    <state x="337" y="112" width="670" height="680" key="search.everywhere.popup/0.23.1344.768@0.23.1344.768" timestamp="1582124778207" />
+    <state x="337" y="112" width="670" height="681" key="search.everywhere.popup/0.23.1344.769@0.23.1344.769" timestamp="1581342256546" />
+    <state x="337" y="113" width="670" height="683" key="search.everywhere.popup/0.23.1344.771@0.23.1344.771" timestamp="1582204364928" />
     <state x="337" y="112" width="670" height="676" key="search.everywhere.popup/1344.23.1920.1057/0.23.1344.765@0.23.1344.765" timestamp="1579574242912" />
     <state x="337" y="112" width="670" height="677" key="search.everywhere.popup/1344.23.1920.1057/0.23.1344.766@0.23.1344.766" timestamp="1579591351678" />
   </component>
@@ -423,8 +482,63 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/topics/graph/dfs/TestSolution.java</url>
-          <line>18</line>
+          <line>86</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/graph/dfs/_494_target_sum/Solution.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/graph/dfs/_494_target_sum/Solution.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/stack/_392_decode_string/Solution.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/topics/graph/dfs/TestSolution.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/topics/graph/dfs/TestSolution.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/graph/dfs/_841_keys_and_rooms/Solution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/array/_724_introduction_to_array/Solution.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/array/_498_diagonal_traverse/Solution.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/topics/array/_54_spiral_matrix/Solution.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/topics/array/TestSolution.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/topics/array/TestSolution.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="58" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
